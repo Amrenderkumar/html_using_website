@@ -35,6 +35,7 @@ You can use this timetable layout for:
 - Academic scheduling
 - Weekly planning
 - Classroom management apps
+- Study routines
 
 ---
 
