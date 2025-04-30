@@ -27,6 +27,7 @@ The timetable outlines subject periods for each day of the week:
   - 3rd: Chemistry
 
 - **Saturday:** Hindi for all periods
+- posibility of class period.
 
 ## Usage
 
