@@ -7,7 +7,7 @@ in the document page.
 
 This project contains a simple **class timetable** layout for weekly scheduling of subjects. Below is a visual representation of the class schedule:
 
-![Timetable](./path/to/Screenshot%20(84).png)
+time table image.
 
 ## Table Structure
 
