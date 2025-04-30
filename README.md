@@ -38,6 +38,15 @@ The timetable outlines subject periods for each day of the week:
 ✅ Daily overview of classes  
 ✅ Suitable for schools, coaching centers, or personal study planning 
 
+
+## Planned Enhancements
+
+🛠️ Add responsive HTML/CSS version  
+🛠️ Export to PDF or Excel  
+🛠️ Interactive subject editing (e.g., using JavaScript or React)  
+🛠️ Dark/light mode toggle  
+🛠️ Integration with Google Calendar or notification system 
+
 ## Usage
 
 You can use this timetable layout for:
