@@ -29,6 +29,15 @@ The timetable outlines subject periods for each day of the week:
 - **Saturday:** Hindi for all periods
 - posibility of class period.
 
+
+## Features
+
+✅ Weekly subject scheduling  
+✅ Clean and readable table layout  
+✅ Subject distribution across time slots  
+✅ Daily overview of classes  
+✅ Suitable for schools, coaching centers, or personal study planning 
+
 ## Usage
 
 You can use this timetable layout for:
