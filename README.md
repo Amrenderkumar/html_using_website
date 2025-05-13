@@ -8,7 +8,7 @@ Full templete are create with the help of html,css and js. The create a table fo
 This project contains a simple **class timetable** layout for weekly scheduling of subjects. Below is a visual representation of the class schedule:
 
 time table image.
-
+ 
 ## Table Structure
 
 The timetable outlines subject periods for each day of the week:
