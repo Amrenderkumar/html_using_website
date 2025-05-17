@@ -10,7 +10,7 @@ This project contains a simple **class timetable** layout for weekly scheduling 
 time table image. 
  
 ## Table Structure
-
+ 
 The timetable outlines subject periods for each day of the week:
 
 - **Periods:** 3 sessions each day (1st, 2nd, 3rd)
