@@ -38,7 +38,6 @@ The timetable outlines subject periods for each day of the week:
 ✅ Daily overview of classes  
 ✅ Suitable for schools, coaching centers, or personal study planning 
 
-
 ## Planned Enhancements
 
 🛠️ Add responsive HTML/CSS version  
