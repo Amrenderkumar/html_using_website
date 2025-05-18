@@ -29,7 +29,6 @@ The timetable outlines subject periods for each day of the week:
 - **Saturday:** Hindi for all periods
 - posibility of class period.
 
-
 ## Features
 
 ✅ Weekly subject scheduling  
