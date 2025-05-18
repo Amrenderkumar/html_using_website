@@ -58,5 +58,4 @@ You can use this timetable layout for:
 Feel free to fork or contribute if you'd like to add styling, interactivity, or export features.
 Add on the css and js according to the html file and connect to each other of the file. 
 
-
 ![image alt](https://github.com/Amrenderkumar/html_using_website/blob/a3f05f066e54d6004533c2a491a18e2fdca9ea9b/Screenshot%20(84).png)
