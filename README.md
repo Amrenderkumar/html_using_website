@@ -2,7 +2,7 @@
 All the using only for html to create a table in every section is 
 devide into sub part like period section,time,and days name of describe 
 in the document page.
-Full templete are create with the help of html,css and js. The create a table form in document page
+Full templete are create with the help of html,css and js. The create a table form in document page 
 # Class Timetable
 
 This project contains a simple **class timetable** layout for weekly scheduling of subjects. Below is a visual representation of the class schedule:
